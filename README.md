@@ -1,7 +1,8 @@
-<div style="display: flex;">
-  <img src="screenshots/kino.ico" alt="CinemaApp" width="64"/>
-  <p>CinemaApp: приложение для кинотеатра (админ + клиент) C#</p>
+<div style="display: inline-block; margin-right: 20px;">
+  <img src="screenshots/kino.ico" alt="CinemaApp" width="64" style="vertical-align: middle;">
+  <p style="display: inline-block; margin: 0 0 0 10px;">CinemaApp: приложение для кинотеатра (админ + клиент) C#</p>
 </div>
+
   
   CinemaApp - это приложение для управления кинотеатрами, сеансами, залами, и для ведения отчетности, разработанное с использованием языка программирования C#. Реализована авторизация для администратора. Приложение также предназначено клиентов: просмотр фильмов в прокате, рейтинг фильма, поиск фильмов (+ расширенный поиск), бронирование и печать билета.
   
