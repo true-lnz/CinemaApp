@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="screenshots/favicon.ico" alt="CinemaApp" width="200"/>
+  <img src="screenshots/kino.ico" alt="CinemaApp" width="200"/>
   <div style="width: 50%; margin-left: 20px;">
   
   ### CinemaApp: приложение для кинотеатра (админ + клиент) C#
